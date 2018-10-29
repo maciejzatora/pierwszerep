@@ -1,2 +1,3 @@
 cos niepotrzebne
 nastepna linijka zapomniana dla fixa
+
